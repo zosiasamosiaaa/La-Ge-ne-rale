@@ -3,6 +3,7 @@
 Type of the La Générale Gate
 
 ## Specimen
+Geometric / Lineal font based on ceramics squares
 
 
 
