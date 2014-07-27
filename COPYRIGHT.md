@@ -1,1 +1,1 @@
-Copyright (c) 2014, Agnieszka Manira, Léo Martin, Julien Imbert
+Copyright (c) 2014, Agnieszka Maniara, Léo Martin, Julien Imbert

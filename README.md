@@ -1,9 +1,10 @@
 # Myfont
 
-Type of the La Générale Gate
+Type based on La Générale Gates, avenue parmentier, Paris.
 
 ## Specimen
-Geometric / Lineal font based on ceramics squares
+Geometric / Lineal font based on ceramics squares.
+Two fonts are available : one plain font and a font with ceramics structure made visible.
 
 
 
